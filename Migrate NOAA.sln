@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Migrate NOAA", "Migrate NOAA\Migrate NOAA.dtproj", "{66C87E12-7FD8-4532-9D14-F09590D3CCF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66C87E12-7FD8-4532-9D14-F09590D3CCF3}.Development|Default.ActiveCfg = Development
+		{66C87E12-7FD8-4532-9D14-F09590D3CCF3}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7B2A6C0-7ACE-44EC-949C-3328469A42DD}
+	EndGlobalSection
+EndGlobal
